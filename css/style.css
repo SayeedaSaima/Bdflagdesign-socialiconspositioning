@@ -1,0 +1,225 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+	height: 1800px;
+	
+}
+h1, h2, h3, h4, h5{
+	font-family: sans-serif;
+}
+a{
+	text-decoration: none;
+}
+.fixed{
+	text-align: center;
+	top:0%;
+	position: fixed;
+	width: 100%;
+	height: 15%;
+	color: #fff;
+	background-color:rgba(0, 34, 0, 0.5);
+}
+.fixed h1{
+	margin-top: 5px;
+}
+.Social-icons{
+	width: 100%;
+	display:block;
+	text-align: center;
+}
+.Social-icons li{
+	list-style: none;
+	display: inline-block;
+	
+}
+.Social-icons li a{
+	display: block;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	font-size: 17px;
+	color: white;
+	border-radius: 70%;
+	background-color: darkblue;
+	transition: 1s;
+}
+.Social-icons li a:hover{
+	transform: translate(0px, -10px);
+	cursor: pointer;
+}
+.Social-icons li:nth-child(1) a:hover{
+	color: white;
+	background-color: #0165E1;
+}
+.Social-icons li:nth-child(2) a:hover{
+	color: white;
+	background-color: #c4302b;
+}
+.Social-icons li:nth-child(3) a:hover{
+	color: white;
+	background-color:#E4405F;
+}
+.Social-icons li:nth-child(4) a:hover{
+	color: white;
+	background-color: #0077b5;
+}
+.Social-icons li:nth-child(5) a:hover{
+	color: white;
+	background-color:#6CADDE;
+}
+.Social-icons li:nth-child(6) a:hover{
+	color: red;
+	background-color: #FFFFFF;
+}
+.Social-icons li:nth-child(7) a:hover{
+	color: white;
+	background-color:#7ACC72;
+}
+.Social-icons li:nth-child(8) a:hover{
+	color: white;
+	background-color: #0088cc;
+}
+.Red{
+	width: 600px;
+	height: 350px;
+	background-color: green;
+	position: relative;
+	margin: 110px auto;
+}
+.Green{
+	position: absolute;
+	width: 150px;
+	height: 150px;
+	background-color: red;
+	top: 100px;
+	left: 220px;
+	border-radius: 100%;
+}
+.fb{
+	width:160px;
+	height: 40px;
+	position: fixed;
+	top:21%;
+	right: -10%;
+	transition: 1s;
+}
+.fb:hover{
+	right: 2px;
+	cursor: pointer;
+}
+.Instagram{
+	width:170px;
+	height: 50px;
+	position: fixed;
+	top:28%;
+	right: -10%;
+	transition: 1s;
+}
+.Instagram:hover{
+	right: 2px;
+	cursor: pointer;
+}
+.linkedin{
+	width:150px;
+	height:120px;
+	position: fixed;
+	top:31%;
+	right: -9%;
+	transition: 1s;
+}
+.linkedin:hover{
+	right: 2px;
+	cursor: pointer;
+}
+.telegram{
+	width:170px;
+	height: 50px;
+	position: fixed;
+	top:46%;
+	right: -10%;
+	transition: 1s;
+}
+.telegram:hover{
+   right: 2px;
+   cursor: pointer;
+}
+.twitter{
+	width:150px;
+	height: 100px;
+	position: fixed;
+	top:50%;
+	right: -9%;
+	transition: 1s;
+}
+.twitter:hover{
+	right: 2px;
+    cursor: pointer;
+}
+.WhatsApp{
+	width:140px;
+	height: 60px;
+	position: fixed;
+	top:62%;
+	right: -8%;
+	transition: 1s;
+}
+.WhatsApp:hover{
+	right: 2px;
+    cursor: pointer;
+}
+.youtube{
+	width:130px;
+	height: 40px;
+	position: fixed;
+	top:72%;
+	right: -7%;
+	transition: 1s;
+}
+.youtube:hover{
+	right: 2px;
+   cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
